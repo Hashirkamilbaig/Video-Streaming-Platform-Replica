@@ -1,0 +1,30 @@
+.short-thumbnail-1{
+    width: 216px;
+    height: 385px;
+    border-radius: 10px;
+}
+
+.shorts-info{
+    font-family: Roboto, Arial;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 5px;
+    width: 216px; 
+    margin-bottom: 5px;
+}
+
+.short-views{
+    font-size: 14px;
+    color: grey;
+}
+
+.shorts-coloums{
+    display: grid;
+    grid-template-columns: 225px 225px 225px 225px 225px;
+    
+    margin-bottom: 20px;
+}
+
+.seperate{
+    padding-right: 15px;
+}
